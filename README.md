@@ -24,8 +24,7 @@
 # 安装依赖
 pip install -r requirements.txt
 
-# 下载数据集（自动生成模拟数据）
-./download_data.sh
+
 ```
 
 ### 2. 一键运行完整 pipeline
