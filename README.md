@@ -1,10 +1,5 @@
-# 天池新闻推荐 baseline 复现项目
-
-基于[天池新闻推荐 baseline1](https://blog.csdn.net/Der_ek__/article/details/149126469) 的完整 Python 实现。
-
+# 天池新闻推荐召回
 ## 项目概述
-
-本项目复现了天池新闻推荐赛题的完整 baseline 流程：
 
 1. **数据预处理**: 内存压缩、article ID 映射、特征标准化
 2. **Item-CF 召回**: 基于物品的协同过滤 + 时间/顺序/创建时间加权
